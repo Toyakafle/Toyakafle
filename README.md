@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajendra Ayer</h1>
 <h3 align="center">Machine Learning Engineer | Entrepreneur | Innovator</h3>
 ---
-## 🧠 About Me
+##  About Me
 I'm a passionate **Machine Learning Engineer** with a love for solving real-world problems
 through data, innovation, and scalable tech solutions. I blend technical excellence with
 entrepreneurial mindset to build intelligent systems that create impact.
