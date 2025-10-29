@@ -7,7 +7,6 @@
 
 I'm a passionate **Machine Learning Engineer** with a love for solving real-world problems through data, innovation, and scalable tech solutions. I blend technical excellence with an entrepreneurial mindset to build intelligent systems that create impact.
 
-- Founder of **[Your Startup Name or Idea]**
 - Specializing in **Deep Learning, Computer Vision, NLP, and AI product development**
 - Currently working on **AI-powered business automation and predictive systems**
 - Exploring the intersection of **AI + Entrepreneurship + Social Impact**
